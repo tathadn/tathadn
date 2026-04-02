@@ -1,6 +1,6 @@
 ## Hi, I'm Tathagata Debnath (Dave)
 
-PhD candidate in Computer Science at New Mexico State University. I build agentic AI systems and fine-tune foundation models on multi-GPU infrastructure. My research background is in bioinformatics and algorithm design (10 publications, 80+ citations, IEEE TPAMI & IEEE/ACM TCBB).
+PhD candidate in Computer Science at New Mexico State University. I build agentic AI systems and fine-tune foundation models on multi-GPU infrastructure. My research background is in bioinformatics and algorithm design (10 publications, 80+ citations, IEEE TPAMI, Nature, & IEEE/ACM TCBB).
 
 Currently focused on autonomous code debugging agents, vision-language model adaptation, and self-improving LLM systems using MCTS, DPO, and LoRA/QLoRA on distributed H100 setups.
 
